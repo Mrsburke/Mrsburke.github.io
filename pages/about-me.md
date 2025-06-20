@@ -4,27 +4,24 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Senior, CS @ MSU
+  name: Kyle Burke
+  role: Teacher Mentor
   image: /assets/images/me.jpeg
-  linkedin: https://www.linkedin.com/in/clyde-tandjong-7a3ab0150/
+  linkedin: 
   bio: |
-    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2025.
+    Currently, I teach Foundations of Technology at Long Reach High School in Howard County Schools. This is year 25 as a teacher, but my 2nd year as the Technology teacher.  
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    I am also a visual artist and a professional winemaker.  This role gives me the chance to bring my creative expertise to students at Morgan, while learning about Artificial Intelligence.  My goal is to bring my newly acquired skillset to my high school classroom. 
+    
 
   hobbies:
-    - icon: 🎺
-      title: Playing Trumpet
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 
+      title: Visual Artist
+      description: I've been an artist since I was in elementary school.
+    - icon: 
+      title: Winemaker
+      description: I've been producing wine professionally out of California for 4 years.
+    
 
   gallery:
     - image: /assets/images/me-guitar.png
