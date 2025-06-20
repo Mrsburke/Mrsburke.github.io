@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Kyle Burke
   role: Teacher Mentor
-  image: /assets/images/me.jpeg
+  image: assets/images/Kyle Burke Photo.jpg
   linkedin: 
   bio: |
     Currently, I teach Foundations of Technology at Long Reach High School in Howard County Schools. This is year 25 as a teacher, but my 2nd year as the Technology teacher.  
